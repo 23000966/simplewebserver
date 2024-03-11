@@ -22,8 +22,10 @@ Testing the webserver.
 
 ## PROGRAM:
 
+![image](https://github.com/23000966/simplewebserver/assets/153983364/0da67f99-874c-4759-8e6c-ade1eaa16acb)
 
 ## OUTPUT:
+![image](https://github.com/23000966/simplewebserver/assets/153983364/97c82613-5da6-44c4-a4e4-e794b96261b7)
 
 
 ## RESULT:
