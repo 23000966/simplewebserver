@@ -21,7 +21,7 @@ Serving the HTML pages.
 Testing the webserver.
 
 ## PROGRAM:
-
+```
 from http.server import HTTPServer, BaseHTTPRequestHandler
 content = 
 <html>
@@ -81,7 +81,7 @@ httpd = HTTPServer(server_address,myhandler)
 print("my webserver is running...")
 httpd.serve_forever()
 
-
+```
 
 ## OUTPUT:
 ![web](https://github.com/Thamizhjo/simplewebserver/assets/123891476/26ae3d5a-7182-412b-aab8-de9ac4cf2f60)
